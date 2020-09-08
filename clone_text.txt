@@ -1,3 +1,3 @@
 The Gold is Girl!
-git config --global user.email "mr_right523@yeah.net"
-git config --global user.name "JunjieZhang523"
+git config --global user.email "email is yeah!"
+git config --global user.name "GitHub Name"
